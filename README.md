@@ -6,7 +6,7 @@ orders and rider assignments, while riders handle deliveries through a dedicated
 portal.
 
 <p align="center">
-  <img src="images/foodswing-home.png" alt="FoodSwing homepage showing the Taste in Motion hero section" width="100%">
+  <img src="images/foodswing-home.png" width="100%">
 </p>
 
 ## Features
